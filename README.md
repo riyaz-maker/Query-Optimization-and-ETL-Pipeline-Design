@@ -1,6 +1,6 @@
-# SQL Query Optimization & ETL Pipeline Design (Hands-On Project)
+# SQL Query Optimization & ETL Pipeline Design
 ## Overview
-This project demonstrates a robust ETL pipeline designed to process user and financial data, optimize SQL queries, and generate interactive dashboards for automated reporting. It integrates multiple stages—including data extraction, transformation, quality checks, SQL query optimization, dashboarding, and orchestration—using modern data engineering tools.
+This project demonstrates a robust ETL pipeline designed to process user and financial data, optimize SQL queries, and generate interactive dashboards for automated reporting. It integrates multiple stages—including data extraction, transformation, quality checks, SQL query optimization, dashboarding, and orchestration—using data engineering tools.
 
 # Features
 ## Data Extraction & Loading:
@@ -36,19 +36,16 @@ Apache Airflow for ETL pipeline orchestration
 
 # Usage Instructions
 Data Extraction & Loading:
-Execute data_extraction_loading.py to load raw CSV data into the SQLite staging table.
+Execute data_preprocessing.py to load raw CSV data into the SQLite staging table.
 
 Data Transformation:
 Execute data_transformation.py to clean and enrich the data.
 
 Data Quality Checks:
-Execute data_quality_checks.py to perform automated quality validations.
+Execute data_quality_check.py to perform automated quality validations.
 
 Dashboard:
 Run dashboard.py to launch the interactive dashboard for visualization.
-
-ETL Orchestration:
-Use the Airflow DAG (etl_pipeline_dag.py) to schedule and automate the entire pipeline.
 
 # Future Enhancements
 Data Integration:
@@ -65,3 +62,10 @@ Add more interactive features, filters, and visualizations to the dashboard.
 
 CI/CD Integration:
 Implement CI/CD pipelines for continuous integration and deployment of the ETL process.
+
+# Screenshots of Dashboard
+<img width="1440" alt="Screenshot 2025-04-02 at 17 52 50" src="https://github.com/user-attachments/assets/070ddc75-5f9d-4067-a387-be261b0a063b" />
+<img width="1440" alt="Screenshot 2025-04-02 at 17 53 00" src="https://github.com/user-attachments/assets/4f9417f2-fed5-43fb-9faf-c60b6164308c" />
+<img width="1228" alt="Screenshot 2025-04-02 at 17 53 21" src="https://github.com/user-attachments/assets/b5b8d8a1-e6e7-4aba-91ff-db83c0b983a8" />
+
+

@@ -64,8 +64,6 @@ CI/CD Integration:
 Implement CI/CD pipelines for continuous integration and deployment of the ETL process.
 
 # Screenshots of Dashboard
-<img width="1440" alt="Screenshot 2025-04-02 at 17 52 50" src="https://github.com/user-attachments/assets/070ddc75-5f9d-4067-a387-be261b0a063b" />
-<img width="1440" alt="Screenshot 2025-04-02 at 17 53 00" src="https://github.com/user-attachments/assets/4f9417f2-fed5-43fb-9faf-c60b6164308c" />
+![Screenshot 2025-04-02 at 17 52 50](https://github.com/user-attachments/assets/ba16d56b-ada1-482b-8fc7-98e34299547b)
+![Screenshot 2025-04-02 at 17 53 00](https://github.com/user-attachments/assets/ff6dd8d4-e78e-4b60-b7e9-ee2eb3a3cb1f)
 <img width="1228" alt="Screenshot 2025-04-02 at 17 53 21" src="https://github.com/user-attachments/assets/b5b8d8a1-e6e7-4aba-91ff-db83c0b983a8" />
-
-
